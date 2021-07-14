@@ -12,7 +12,7 @@ This sample was created to demonstrate and measure speed of searching for max el
    * Finish installation 
  * Download and install [CMake](https://cmake.org/download/)
  * Get the sources
-    * `git clone https://github.com/apriorit/cuda-reduce-max-with-index.git` into `c:\cuda-reduce-max-with-index` (destination dir can be anything, `c:\cuda-reduce-max-with-index` is used here just for the reference)
+    * `git clone https://github.com/cuprumator/cuda-reduce-max-with-index.git` into `c:\cuda-reduce-max-with-index` (destination dir can be anything, `c:\cuda-reduce-max-with-index` is used here just for the reference)
  * Generate Visual Studio project files
     * Launch CMake (cmake-gui) from the start menu
     * Set "Where is the source code" to `c:\cuda-reduce-max-with-index`
